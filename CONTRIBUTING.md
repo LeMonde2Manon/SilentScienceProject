@@ -13,7 +13,8 @@ You can contribute in three ways:
 - Improve an existing pictogram  
 - Add or update translations and keywords  
 
-All contributions must follow the rules below.
+All contributions must follow the rules below:
+- Use the prompt in PROMPTS.md
 
 ---
 
