@@ -1,0 +1,8 @@
+{
+  "meteor": {
+    "en": ["meteor"],
+    "fr": ["météore"],
+    "es": ["meteoro"],
+    "de": ["meteorit"]
+  }
+}
