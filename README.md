@@ -1,5 +1,9 @@
 # SilentScienceProject
 
+> **Communication should never limit curiosity.**
+>
+> Every child deserves the vocabulary to explore the Universe.
+
 SilentScienceProject is an open‑source collaborative library of Grach‑Bailly pictograms that make science accessible to non‑verbal children. Parents, educators and therapists can contribute by creating simple, consistent icons that help every child explore and understand scientific concepts.
 
 ## License
