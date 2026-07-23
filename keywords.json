@@ -6,3 +6,30 @@
     "de": ["meteorit"]
   }
 }
+
+{
+  "solar system": {
+    "en": ["solar system"],
+    "fr": ["système solaire"],
+    "es": ["sistema solar"],
+    "de": ["sonnensystem"]
+  }
+}
+
+{
+  "galaxy": {
+    "en": ["galaxy"],
+    "fr": ["galaxie"],
+    "es": ["galaxia"],
+    "de": ["galaxie"]
+  }
+}
+
+{
+  "comet": {
+    "en": ["comet"],
+    "fr": ["comète"],
+    "es": ["cometa"],
+    "de": ["komet"]
+  }
+}
