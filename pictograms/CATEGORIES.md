@@ -1,4 +1,4 @@
-#CATEGORIES.md
+# CATEGORIES.md
 ## Scientific themes
 
 Each pictogram must belong to one scientific theme.
