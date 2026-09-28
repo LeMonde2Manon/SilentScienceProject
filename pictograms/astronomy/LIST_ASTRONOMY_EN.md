@@ -14,7 +14,7 @@ Status: ✓ = pictogram already completed
 - Sun  
 - Planet  
 - Star  
-- Moon  
+- ✓ Moon  
 - ✓ Earth  
 
 ---
@@ -90,5 +90,5 @@ Status: ✓ = pictogram already completed
 - Sun  
 - Planet  
 - Earth  
-- Moon  
-- Solar system
+- ✓ Moon  
+- ✓ Solar system
