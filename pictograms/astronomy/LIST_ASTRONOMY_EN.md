@@ -6,7 +6,7 @@ Status: ✓ = pictogram already completed
 ---
 
 ## 🌌 1. Basics of the Universe
-- Universe  
+- ✓ Universe  
 - Space  
 - ✓ Galaxy  
 - Milky Way  
@@ -22,12 +22,12 @@ Status: ✓ = pictogram already completed
 ## 🪐 2. Planets of the Solar System
 - Mercury  
 - Venus  
-- Earth  
+- ✓ Earth  
 - Mars  
 - Jupiter  
 - Saturn  
 - Uranus  
-- Neptune  
+- ✓ Neptune  
 
 ---
 
@@ -84,11 +84,11 @@ Status: ✓ = pictogram already completed
 ---
 
 ## ⭐ 8. “First Astronomy Lesson” Pack
-- Universe  
+- ✓ Universe  
 - Space  
 - Star  
 - Sun  
 - Planet  
-- Earth  
+- ✓ Earth  
 - ✓ Moon  
 - ✓ Solar system
