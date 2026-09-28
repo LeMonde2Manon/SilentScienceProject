@@ -40,4 +40,12 @@
     "es": ["luna"],
     "de": ["mond"]
   }
+
+    {
+  "moon": {
+    "en": ["neptune"],
+    "fr": ["neptune"],
+    "es": ["neptuno"],
+    "de": ["neptun"]
+  }
 }
