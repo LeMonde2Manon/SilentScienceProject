@@ -32,4 +32,12 @@
     "es": ["cometa"],
     "de": ["komet"]
   }
+
+  {
+  "moon": {
+    "en": ["moon"],
+    "fr": ["lune"],
+    "es": ["luna"],
+    "de": ["mond"]
+  }
 }
