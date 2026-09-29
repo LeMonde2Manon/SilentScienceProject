@@ -32,24 +32,27 @@
     "es": ["cometa"],
     "de": ["komet"]
   }
+}
 
-  {
+{
   "moon": {
     "en": ["moon"],
     "fr": ["lune"],
     "es": ["luna"],
     "de": ["mond"]
   }
+} 
 
-  {
+{
   "neptune": {
     "en": ["neptune"],
     "fr": ["neptune"],
     "es": ["neptuno"],
     "de": ["neptun"]
   }
+}
   
-  {
+{
   "milky way": {
     "en": ["milky way"],
     "fr": ["voie lactée"],
@@ -57,3 +60,13 @@
     "de": ["milchstraße"]
   }
 }
+
+{
+  "jupiter": {
+    "en": ["jupiter"],
+    "fr": ["jupiter"],
+    "es": ["júpiter"],
+    "de": ["jupiter"]
+  }
+}
+
