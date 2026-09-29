@@ -41,11 +41,19 @@
     "de": ["mond"]
   }
 
-    {
+  {
   "neptune": {
     "en": ["neptune"],
     "fr": ["neptune"],
     "es": ["neptuno"],
     "de": ["neptun"]
+  }
+  
+  {
+  "milky way": {
+    "en": ["milky way"],
+    "fr": ["voie lactée"],
+    "es": ["vía láctea"],
+    "de": ["milchstraße"]
   }
 }
