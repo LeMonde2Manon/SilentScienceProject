@@ -24,7 +24,7 @@ Status: ✓ = pictogram already completed
 - Venus  
 - ✓ Earth  
 - Mars  
-- Jupiter  
+- ✓ Jupiter  
 - Saturn  
 - Uranus  
 - ✓ Neptune  
