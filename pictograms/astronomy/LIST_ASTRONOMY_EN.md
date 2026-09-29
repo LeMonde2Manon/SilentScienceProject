@@ -9,7 +9,7 @@ Status: ✓ = pictogram already completed
 - ✓ Universe  
 - Space  
 - ✓ Galaxy  
-- Milky Way  
+- ✓ Milky Way  
 - ✓ Solar system  
 - Sun  
 - Planet  
