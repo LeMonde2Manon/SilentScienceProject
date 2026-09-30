@@ -70,3 +70,11 @@
   }
 }
 
+{
+  "star": {
+    "en": ["star"],
+    "fr": ["étoile"],
+    "es": ["estrella"],
+    "de": ["stern"]
+  }
+}
