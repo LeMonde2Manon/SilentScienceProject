@@ -13,7 +13,7 @@ Status: ✓ = pictogram already completed
 - ✓ Solar system  
 - Sun  
 - Planet  
-- Star  
+- ✓ Star  
 - ✓ Moon  
 - ✓ Earth  
 
@@ -86,7 +86,7 @@ Status: ✓ = pictogram already completed
 ## ⭐ 8. “First Astronomy Lesson” Pack
 - ✓ Universe  
 - Space  
-- Star  
+- ✓ Star  
 - Sun  
 - Planet  
 - ✓ Earth  
